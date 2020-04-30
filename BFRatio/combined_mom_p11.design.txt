@@ -1,0 +1,1 @@
+Sample		GroupP11Met1		MetPNP11Ctrl1	CtrlPNP11Ctrl2	CtrlPNP11Met2		MetPNP11Ctrl3	CtrlPNP11Ctrl4	CtrlPNP11Ctrl5	CtrlPNP11Met3		MetPNP11Ctrl6	CtrlPNP11Met4		MetPN P11Ctrl7	CtrlPNP11Met5		MetPNP11Ctrl8	CtrlPN
